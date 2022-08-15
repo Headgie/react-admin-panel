@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\OpenServer\\domains\\react-admin"
+		}
+	],
+	"settings": {}
+}
