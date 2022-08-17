@@ -5,7 +5,12 @@
 		},
 		{
 			"path": "..\\..\\OpenServer\\domains\\react-admin"
+		},
+		{
+			"path": "../../OpenServer/domains/react-admin"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "react-admin"
+	}
 }

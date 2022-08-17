@@ -7,8 +7,8 @@ import notify from "gulp-notify"; // Нотификация
 
 const sass = gulpSass(dartSass);
 
-const dist = "T:\\OpenServer\\domains\\react-admin\\admin"
-
+//const dist = "T:\\OpenServer\\domains\\react-admin\\admin"
+const dist = "../../OpenServer/domains/react-admin/admin";
 gulp.task("copy-html", ()=>{
     return gulp.src("./app/src/index.html")
       .pipe(gulp.dest(dist))
